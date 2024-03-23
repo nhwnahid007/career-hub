@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/kGhFx2N/google-1-1-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, USA",
+    "job_type": "Full Time",
+    "salary": "$120,000 - $150,000",
+    "job_description": "A Software Engineer at Google works on the development of various software products and services. They are responsible for writing clean, efficient, and maintainable code to meet project requirements and deadlines.",
+    "job_responsibility": "Collaborating with cross-functional teams to design, develop, and deploy high-quality software solutions. Participating in code reviews and providing feedback to other team members. Troubleshooting and debugging software issues. Keeping up-to-date with the latest technologies and industry trends.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "2-5 years of software engineering experience.",
+    "contact_information": {
+      "phone": "1-800-GOOGLE",
+      "email": "careers@google.com",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/myjF2fZ/netflix-4-1.png",
+    "job_title": "Data Scientist",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Los Angeles, USA",
+    "job_type": "Full Time",
+    "salary": "$130,000 - $160,000",
+    "job_description": "A Data Scientist at Netflix analyzes and interprets complex data to provide insights that drive business decisions. They work closely with cross-functional teams to develop and improve algorithms and models for various applications.",
+    "job_responsibility": "Collecting, processing, and analyzing large datasets. Developing and implementing machine learning models and algorithms. Communicating findings to stakeholders through reports, presentations, and visualizations. Collaborating with engineers and product managers to integrate data-driven solutions into products and services.",
+    "educational_requirements": "Master's degree or Ph.D. in Computer Science, Statistics, Mathematics, or related field.",
+    "experiences": "3-7 years of experience in data analysis and machine learning.",
+    "contact_information": {
+      "phone": "1-800-NETFLIX",
+      "email": "careers@netflix.com",
+      "address": "100 Winchester Circle, Los Gatos, CA"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/7rM65Dp/tesla-9-1.png",
+    "job_title": "Electrical Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Palo Alto, USA",
+    "job_type": "Full Time",
+    "salary": "$110,000 - $140,000",
+    "job_description": "An Electrical Engineer at Tesla designs, tests, and maintains electrical systems and components for electric vehicles, energy storage systems, and solar products. They work on various stages of product development, from concept to production.",
+    "job_responsibility": "Designing and developing electrical systems and components for automotive and energy products. Conducting tests and experiments to evaluate and improve system performance. Collaborating with mechanical engineers, firmware engineers, and suppliers to integrate electrical systems into products. Ensuring compliance with regulatory standards and safety requirements.",
+    "educational_requirements": "Bachelor's degree in Electrical Engineering or related field.",
+    "experiences": "2-5 years of experience in electrical engineering.",
+    "contact_information": {
+      "phone": "1-800-TESLA",
+      "email": "careers@tesla.com",
+      "address": "3500 Deer Creek Road, Palo Alto, CA"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/xCWpnM4/1685279753620.png",
+    "job_title": "iOS Developer",
+    "company_name": "Apple Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Cupertino, USA",
+    "job_type": "Full Time",
+    "salary": "$130,000 - $160,000",
+    "job_description": "An iOS Developer at Apple designs and builds applications for iOS devices, such as iPhones and iPads. They are responsible for developing user interfaces, implementing features, and ensuring high performance and reliability of iOS applications.",
+    "job_responsibility": "Designing and implementing user interfaces for iOS applications. Developing and maintaining iOS applications using Swift or Objective-C. Collaborating with designers, product managers, and other engineers to define requirements and deliver features. Conducting code reviews and ensuring code quality through testing and debugging.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-7 years of experience in iOS app development.",
+    "contact_information": {
+      "phone": "1-800-APPLE",
+      "email": "careers@apple.com",
+      "address": "1 Apple Park Way, Cupertino, CA"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/W0pKt5v/0a06600cc3cedeb49280b54114c88ce6.jpg",
+    "job_title": "Cloud Solutions Architect",
+    "company_name": "Amazon Web Services (AWS)",
+    "remote_or_onsite": "Remote",
+    "location": "Seattle, USA",
+    "job_type": "Contract",
+    "salary": "$150,000 - $180,000",
+    "job_description": "A Cloud Solutions Architect at AWS designs and implements cloud-based solutions for businesses and organizations. They are responsible for designing scalable, reliable, and cost-effective architectures using AWS services and technologies.",
+    "job_responsibility": "Assessing business requirements and translating them into cloud-based solutions. Designing and implementing scalable, reliable, and secure architectures on AWS. Providing technical guidance and support to development teams. Collaborating with stakeholders to optimize cloud resources and costs.",
+    "educational_requirements": "Bachelor's degree in Computer Science, Information Technology, or related field.",
+    "experiences": "5-10 years of experience in cloud architecture and AWS services.",
+    "contact_information": {
+      "phone": "1-800-AMAZON",
+      "email": "careers@aws.com",
+      "address": "410 Terry Ave N, Seattle, WA"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/0t10rCn/images.png",
+    "job_title": "Product Manager",
+    "company_name": "Meta Platforms, Inc. (formerly Facebook)",
+    "remote_or_onsite": "Onsite",
+    "location": "Menlo Park, USA",
+    "job_type": "Full Time",
+    "salary": "$140,000 - $170,000",
+    "job_description": "A Product Manager at Meta Platforms is responsible for defining and driving the strategy and development of products and features. They work closely with cross-functional teams to deliver products that meet user needs and business goals.",
+    "job_responsibility": "Defining product vision, strategy, and roadmap. Prioritizing features and enhancements based on user feedback and market trends. Collaborating with designers, engineers, and stakeholders to develop and launch products. Analyzing product metrics and user feedback to iterate and improve products over time.",
+    "educational_requirements": "Bachelor's degree in Computer Science, Engineering, Business, or related field.",
+    "experiences": "5-8 years of experience in product management or related roles.",
+    "contact_information": {
+      "phone": "1-800-FACEBOOK",
+      "email": "careers@meta.com",
+      "address": "1 Hacker Way, Menlo Park, CA"
+    }
+  }
+]
